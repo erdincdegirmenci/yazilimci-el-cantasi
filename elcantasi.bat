@@ -32,9 +32,9 @@ set choices[24]=Oracle Database,Oracle.Database
 
 echo.
 echo ╔══════════════════════════════════════════════════════════════╗
-echo ║                   █ YAZILIMCI EL ÇANTASI █         	       ║
+echo ║                   █ 🧰 YAZILIMCI EL ÇANTASI █                ║
 echo ╚══════════════════════════════════════════════════════════════╝
-echo   			erdincdegirmenci
+echo   			  erdincdegirmenci
 echo ----------------------------------------------------------------
 
 echo.
